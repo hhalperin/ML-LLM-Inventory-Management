@@ -1,6 +1,6 @@
 # Integrating Generative AI in Supply Chains: Inventory Management Applications
 
-A professional-grade Python package that leverages advanced AI technologies to transform inventory management through intelligent analysis, categorization, and optimization.
+A Python package that leverages advanced AI technologies to transform inventory management through intelligent analysis, categorization, and optimization.
 
 ## Overview
 
